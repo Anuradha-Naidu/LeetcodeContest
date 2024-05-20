@@ -4,7 +4,7 @@ public:
     bool isPerfectSquare(int num) {
         
         //li = long int
-        //binary search method 
+         
 
         li high = 100000;
         li low = 0;
